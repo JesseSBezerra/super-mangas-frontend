@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "Super Mangas - Leia Mangas Online",
   description:
     "Leia seus mangas favoritos online gratuitamente. Catalogo atualizado com os melhores titulos.",
+  verification: {
+    google: "TzEpZGLTIscNQCk_Ikf7PgXmwvXIsc67xXrjNsXG9Ac",
+  },
   icons: {
     icon: [
       {
